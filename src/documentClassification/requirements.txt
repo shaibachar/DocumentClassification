@@ -1,0 +1,10 @@
+flask
+setuptools
+NumPy
+python-dateutil
+pytz
+pandas
+pymongo
+scipy
+html5lib
+gunicorn
